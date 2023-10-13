@@ -7,3 +7,5 @@ Consists of:
 #2 hansard.csv - user generated annual frequency of times the phase 'knife crime' was mentioned in the House of Commons or House of Lords
 #3 homicides.csv - number of homicides in a financial year
 #4 google.csv - relative annual frequency of google searches for phrase 'knife crime', indexed at 2004
+
+# NB: Created for fun to illutrate comparable patterns in discussion of knife crime and frequency of homicide. No guarantees of quality!!
